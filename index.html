@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elliot的機庫</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="header">
+        <h1>Elliot的機庫 - 50張試運營</h1>
+        <p>Sky is calling<br><a href="https://github.com/ElliotCHEN37/hangar/issues/new/choose">問題反饋與改進</a></p>
+    </div>
+
+    <div class="controls">
+        <div class="search-container">
+            <input type="text" class="search-input" placeholder="搜尋機型、航空公司或註冊號..." id="searchInput">
+            <div class="search-icon">🔍</div>
+        </div>
+        <button class="theme-toggle" onclick="toggleTheme()">
+            <span id="themeIcon">🌙</span>
+            <span id="themeText">深色模式</span>
+        </button>
+    </div>
+
+    <div class="gallery" id="gallery">
+        <div class="loading">
+            <div class="spinner"></div>
+        </div>
+    </div>
+
+    <div class="modal" id="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button class="close-btn" onclick="closeModal()">&times;</button>
+            </div>
+            <div class="modal-image-container">
+                <img class="modal-image" id="modalImage" alt="">
+                <button class="nav-btn prev-btn" onclick="previousImage()">‹</button>
+                <button class="nav-btn next-btn" onclick="nextImage()">›</button>
+            </div>
+            <div class="modal-info">
+                <h2 class="modal-title" id="modalTitle"></h2>
+                <div class="info-grid" id="modalInfoGrid"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
