@@ -385,7 +385,7 @@ const aircraftData = [
     },
     {
         id: 32,
-        model: "Boeing 777F60 (B77F)",
+        model: "Boeing 777F (B77F)",
         airline: "Ethiopian Airlines (ET/ETH)",
         registration: "ET-ARH",
         location: "ZSPD",
@@ -541,7 +541,7 @@ const aircraftData = [
     },
     {
         id: 45,
-        model: "Boeing 777-F (B77F)",
+        model: "Boeing 777F (B77F)",
         airline: "FedEx Express (FX/FDX)",
         registration: "N874FD",
         location: "RCTP",
@@ -553,7 +553,7 @@ const aircraftData = [
     },
     {
         id: 46,
-        model: "Boeing 777-F (B77F)",
+        model: "Boeing 777F (B77F)",
         airline: "ANA All Nippon Airways (NH/ANA)",
         registration: "JA771F",
         location: "RCTP",
@@ -565,7 +565,7 @@ const aircraftData = [
     },
     {
         id: 47,
-        model: "Boeing 777-F (B77F)",
+        model: "Boeing 777F (B77F)",
         airline: "ANA All Nippon Airways (NH/ANA)",
         registration: "JA771F",
         location: "RCTP",
@@ -602,7 +602,7 @@ const aircraftData = [
     {
         id: 50,
         model: "Boeing 777F (B77F)",
-        airline: "Singapore Airlines Cargo (SQ/SQC) / DHL Express",
+        airline: "Singapore Airlines Cargo (SQ/SQC) / DHL Express (D0/DHK)",
         registration: "9V-DHD",
         location: "RCTP",
         date: "2025-07-06",
@@ -610,6 +610,798 @@ const aircraftData = [
         camera: "Olympus OM-D E-M5 Mark II",
         lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
         image: "images/9v-dhd.jpg"
+    },
+    {
+        id: 51,
+        model: "Boeing 787-8 (B788)",
+        airline: "Scoot (TR/TGW)",
+        registration: "9V-OFB",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/9v-ofb.jpg"
+    },
+    {
+        id: 52,
+        model: "Boeing 787-10 (B78X)",
+        airline: "Singapore Airlines (SQ/SIA)",
+        registration: "9V-SCI",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/9v-sci.jpg"
+    },
+    {
+        id: 52,
+        model: "Boeing 787-10 (B78X)",
+        airline: "Singapore Airlines (SQ/SIA)",
+        registration: "9V-SCL",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/9v-scl.jpg"
+    },
+    {
+        id: 53,
+        model: "Airbus A380-841 (A388)",
+        airline: "Singapore Airlines (SQ/SIA)",
+        registration: "9V-SKW",
+        location: "WSSS",
+        date: "2025-07-12",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/9v-skw.jpg"
+    },
+    {
+        id: 54,
+        model: "Airbus A320-214 (A320)",
+        airline: "Srilankan Airlines (UL/ALK)",
+        registration: "4R-ABM",
+        location: "WSSS",
+        date: "2025-07-21",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/4r-abm.jpg"
+    },
+    {
+        id: 55,
+        model: "Airbus A380-842 (A388)",
+        airline: "Emirates (EK/UAE)",
+        registration: "A6-EUX",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/a6-eux.jpg"
+    },
+    {
+        id: 56,
+        model: "Airbus A380-842 (A388)",
+        airline: "Emirates (EK/UAE)",
+        registration: "A6-EUX",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/a6-eux-2.jpg"
+    },
+    {
+        id: 57,
+        model: "Airbus A380-842 (A388)",
+        airline: "Emirates (EK/UAE)",
+        registration: "A6-EUX",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/a6-eux-3.jpg"
+    },
+    {
+        id: 58,
+        model: "Airbus A380-842 (A388)",
+        airline: "Emirates (EK/UAE)",
+        registration: "A6-EUX",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/a6-eux-4.jpg"
+    },
+    {
+        id: 59,
+        model: "Airbus A330-323 (A333)",
+        airline: "China Southern Airlines (CZ/CSN)",
+        registration: "B-5940",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/b-5940.jpg"
+    },
+    {
+        id: 60,
+        model: "Airbus A321-211 sl (A321)",
+        airline: "EVA Air (BR/EVA)",
+        registration: "B-16220",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/b-16220.jpg"
+    },
+    {
+        id: 61,
+        model: "Boeing 777-35EER (B77W)",
+        airline: "EVA Air (BR/EVA)",
+        registration: "B-16721",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/b-16721.jpg"
+    },
+    {
+        id: 62,
+        model: "Boeing 777-300ER (B77W)",
+        airline: "EVA Air (BR/EVA)",
+        registration: "B-16735",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/b-16735.jpg"
+    },
+    {
+        id: 63,
+        model: "Boeing 787-10 (B78X)",
+        airline: "EVA Air (BR/EVA)",
+        registration: "B-17803",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/b-17803.jpg"
+    },
+    {
+        id: 64,
+        model: "Boeing 787-10 (B78X)",
+        airline: "EVA Air (BR/EVA)",
+        registration: "B-17812",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/b-17812.jpg"
+    },
+    {
+        id: 65,
+        model: "Boeing 787-9 (B789)",
+        airline: "EVA Air (BR/EVA)",
+        registration: "B-17882",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/b-17882.jpg"
+    },
+    {
+        id: 66,
+        model: "Boeing 787-9 (B789)",
+        airline: "EVA Air (BR/EVA)",
+        registration: "B-17882",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/b-17882-2.jpg"
+    },
+    {
+        id: 67,
+        model: "Boeing 777-309ER (B77W)",
+        airline: "China Airlines (CI/CAL)",
+        registration: "B-18003",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/b-18003.jpg"
+    },
+    {
+        id: 68,
+        model: "Boeing 777-309ER (B77W)",
+        airline: "China Airlines (CI/CAL)",
+        registration: "B-18006",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/b-18006.jpg"
+    },
+    {
+        id: 68,
+        model: "Boeing 777-309ER (B77W)",
+        airline: "China Airlines (CI/CAL)",
+        registration: "B-18006",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/b-18006-2.jpg"
+    },
+    {
+        id: 69,
+        model: "Airbus A330-302 (A333)",
+        airline: "China Airlines (CI/CAL)",
+        registration: "B-18311",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/b-18311.jpg"
+    },
+    {
+        id: 70,
+        model: "Airbus A330-302 (A333)",
+        airline: "China Airlines (CI/CAL)",
+        registration: "B-18315/B-18361",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/b-18315,b-18361.jpg"
+    },
+    {
+        id: 71,
+        model: "Boeing 737-800 (B738)",
+        airline: "China Airlines (CI/CAL)",
+        registration: "B-18663",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/b-18663.jpg"
+    },
+    {
+        id: 72,
+        model: "Boeing 747-409F (SCD) (B744)",
+        airline: "China Airlines (CI/CAL)",
+        registration: "B-18719",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/b-18719.jpg"
+    },
+    {
+        id: 73,
+        model: "Boeing 747-409F (SCD) (B744)/Airbus A320-271N (A20N)",
+        airline: "China Airlines (CI/CAL)/Tigerair Taiwan (IT/TTW)",
+        registration: "B-18719/B-50028",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/b-18719,b-50028.jpg"
+    },
+    {
+        id: 74,
+        model: "Boeing 747-409F (B744)",
+        airline: "China Airlines (CI/CAL)",
+        registration: "B-18722",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/b-18722.jpg"
+    },
+    {
+        id: 75,
+        model: "Boeing 777F (B77F)",
+        airline: "China Airlines (CI/CAL)",
+        registration: "B-18779",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/b-18779.jpg"
+    },
+    {
+        id: 76,
+        model: "Boeing 777F (B77F)",
+        airline: "China Airlines (CI/CAL)",
+        registration: "B-18779",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/b-18779-2.jpg"
+    },
+    {
+        id: 77,
+        model: "Boeing 777F (B77F)",
+        airline: "China Airlines (CI/CAL)",
+        registration: "B-18780",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/b-18780.jpg"
+    },
+    {
+        id: 78,
+        model: "Airbus A350-941 (A359)",
+        airline: "China Airlines (CI/CAL)",
+        registration: "B-18910",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/b-18910.jpg"
+    },
+    {
+        id: 79,
+        model: "Airbus A320-271N (A20N)",
+        airline: "Tigerair Taiwan (IT/TTW)",
+        registration: "B-50027",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/b-50027.jpg"
+    },
+    {
+        id: 80,
+        model: "Airbus A321-252NX (A21N)",
+        airline: "STARLUX Airlines (JX/SJX)",
+        registration: "B-58201",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/b-58201.jpg"
+    },
+    {
+        id: 81,
+        model: "Airbus A321-252NX (A21N)",
+        airline: "STARLUX Airlines (JX/SJX)",
+        registration: "B-58202",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/b-58202.jpg"
+    },
+    {
+        id: 82,
+        model: "Airbus A321-252NX (A21N)",
+        airline: "STARLUX Airlines (JX/SJX)",
+        registration: "B-58209",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/b-58209.jpg"
+    },
+    {
+        id: 83,
+        model: "Airbus A330-941 (A339)",
+        airline: "STARLUX Airlines (JX/SJX)",
+        registration: "B-58303",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/b-58303.jpg"
+    },
+    {
+        id: 84,
+        model: "Airbus A350-941 (A359)",
+        airline: "STARLUX Airlines (JX/SJX)",
+        registration: "B-58504",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/b-58504.jpg"
+    },
+    {
+        id: 85,
+        model: "Airbus A350-941 (A359)",
+        airline: "STARLUX Airlines (JX/SJX)",
+        registration: "B-58505",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/b-58505.jpg"
+    },
+    {
+        id: 86,
+        model: "Airbus A350-941 (A359)",
+        airline: "STARLUX Airlines (JX/SJX)",
+        registration: "B-58508",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/b-58508-2.jpg"
+    },
+    {
+        id: 87,
+        model: "Boeing 777-367 (B773)",
+        airline: "Cathay Pacific (CX/CPA)",
+        registration: "B-HNG",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/b-hng.jpg"
+    },
+    {
+        id: 88,
+        model: "Boeing 737-800 (B738)",
+        airline: "Greater Bay Airlines (HB/HGB)",
+        registration: "B-KJA",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/b-kja.jpg"
+    },
+    {
+        id: 89,
+        model: "Airbus A321-251NX (A21N)",
+        airline: "Hong Kong Express (UO/HKE)",
+        registration: "B-KKL",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/b-kkl.jpg"
+    },
+    {
+        id: 90,
+        model: "Airbus A321-231 (A321)",
+        airline: "Hong Kong Express (UO/HKE)",
+        registration: "B-LEH",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/b-leh.jpg"
+    },
+    {
+        id: 91,
+        model: "Boeing 737-8 MAX (B38M)",
+        airline: "Ethiopian Airlines (ET/ETH)",
+        registration: "ET-BAK",
+        location: "VOBL",
+        date: "2025-07-21",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/et-bak.jpg"
+    },
+    {
+        id: 92,
+        model: "Airbus A380-861 (A388)",
+        airline: "Korean Air (KE/KAL)",
+        registration: "HL7628",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/hl7628.jpg"
+    },
+    {
+        id: 93,
+        model: "Airbus A330-323X (A333)",
+        airline: "Asiana Airlines (OZ/AAR)",
+        registration: "HL7746",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/hl7746.jpg"
+    },
+    {
+        id: 94,
+        model: "Airbus A330-323X (A333)",
+        airline: "Asiana Airlines (OZ/AAR)",
+        registration: "HL8258",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/hl8258.jpg"
+    },
+    {
+        id: 95,
+        model: "Airbus A320-232 (A320)",
+        airline: "Air Busan (BX/ABL)",
+        registration: "HL8309",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/hl8309.jpg"
+    },
+    {
+        id: 96,
+        model: "Airbus A321-251NX (A21N)",
+        airline: "Air Busan (BX/ABL)",
+        registration: "HL8357",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/hl8357.jpg"
+    },
+    {
+        id: 97,
+        model: "Airbus A320-216 (A320)",
+        airline: "Aero K (RF/EOK)",
+        registration: "HL8596",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/hl8596.jpg"
+    },
+    {
+        id: 98,
+        model: "Airbus A321-251NX (A21N)",
+        airline: "Thai AirAsia (FD/AIQ)",
+        registration: "HS-EAE",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/hs-eae.jpg"
+    },
+    {
+        id: 99,
+        model: "Airbus A321-251NX (A21N)",
+        airline: "Thai AirAsia (FD/AIQ)",
+        registration: "HS-EAE",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/hs-eae-2.jpg"
+    },
+    {
+        id: 100,
+        model: "Boeing 777-3ALER (B77W)",
+        airline: "Thai Airways International (TG/THA)",
+        registration: "HS-TKN",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/hs-tkn.jpg"
+    },
+    {
+        id: 101,
+        model: "Boeing 737-846 (B738)",
+        airline: "Japan Airlines (JL/JAL)",
+        registration: "JA317J",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/ja317j.jpg"
+    },
+    {
+        id: 102,
+        model: "Boeing 747-4KZF (SCD) (B744)",
+        airline: "Atlas Air (5Y/GTI)",
+        registration: "N406KZ",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/n406kz.jpg"
+    },
+    {
+        id: 103,
+        model: "Boeing 747-8F (B748)",
+        airline: "United Parcel Service (5X/UPS)",
+        registration: "N620UP",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/n620up.jpg"
+    },
+    {
+        id: 104,
+        model: "Boeing 777F (B77F)",
+        airline: "FedEx Express (FX/FDX)",
+        registration: "N891FD",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/n891fd.jpg"
+    },
+    {
+        id: 105,
+        model: "Boeing 787-9 (B789)",
+        airline: "KLM Royal Dutch Airlines (KL/KLM)",
+        registration: "PH-BHI",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/ph-bhi.jpg"
+    },
+    {
+        id: 106,
+        model: "Airbus A321-271NX (A21N)",
+        airline: "Cebu Pacific Air (5J/CEB)",
+        registration: "RP-C4123",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/rp-c4123.jpg"
+    },
+    {
+        id: 107,
+        model: "Airbus A321-271NX (A21N)",
+        airline: "Cebu Pacific Air (5J/CEB)",
+        registration: "RP-C4123",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/rp-c4123-2.jpg"
+    },
+    {
+        id: 108,
+        model: "Boeing 787-9 (B789)",
+        airline: "Turkish Airlines (TK/THY)",
+        registration: "TC-LLJ",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/tc-llj.jpg"
+    },
+    {
+        id: 109,
+        model: "Airbus A320-251N (A20N)",
+        airline: "Royal Brunei Airlines (BI/BRA)",
+        registration: "V8-RBE",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/v8-rbe.jpg"
+    },
+    {
+        id: 110,
+        model: "Airbus A321-271NX (A21N)",
+        airline: "VietJet Air (VJ/VJC)",
+        registration: "VN-A528",
+        location: "RCTP",
+        date: "2025-07-06",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/vn-a528.jpg"
+    },
+    {
+        id: 111,
+        model: "Boeing 787-8 (B788)",
+        airline: "Air India (AI/AIC)",
+        registration: "VT-ANG",
+        location: "VOBL",
+        date: "2025-07-21",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/vt-ang.jpg"
+    },
+    {
+        id: 112,
+        model: "Boeing 787-8 (B788)",
+        airline: "Air India (AI/AIC)",
+        registration: "VT-ANG",
+        location: "VOBL",
+        date: "2025-07-21",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/vt-ang-2.jpg"
+    },
+    {
+        id: 113,
+        model: "Boeing 737-8 MAX (B38M)",
+        airline: "Air India Express (IX/AXB)",
+        registration: "VT-BXU",
+        location: "VOBL",
+        date: "2025-07-21",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/vt-bxu.jpg"
+    },
+    {
+        id: 114,
+        model: "Boeing 737-8 MAX (B38M)",
+        airline: "Akasa Air (QP/AKJ)",
+        registration: "VT-YAS",
+        location: "VOBL",
+        date: "2025-07-21",
+        photographer: "Elliot CHEN",
+        camera: "Olympus OM-D E-M5 Mark II",
+        lens: "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
+        image: "images/vt-yas.jpg"
     }
 ];
 
@@ -649,9 +1441,15 @@ function renderGallery(data = filteredData) {
     }
 
     gallery.innerHTML = data.map((aircraft, index) => `
-        <div class="aircraft-card" onclick="openModal(${index})">
+        <div class="aircraft-card" onclick="openModal(${index})" 
+             oncontextmenu="return false" 
+             ondragstart="return false" 
+             onselectstart="return false">
             <img src="${aircraft.image}" alt="${aircraft.model}" class="aircraft-image" 
-                 onerror="this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjZjBmMGYwIi8+PHRleHQgeD0iNTAlIiB5PSI0MCUiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIyNCIgZmlsbD0iIzk5OSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+4py48L3RleHQ+PHRleHQgeD0iNTAlIiB5PSI2MCUiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+5ZyW54mH54Sh5rOV6L295YWlPC90ZXh0Pjwvc3ZnPg=='">
+                 onerror="this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjZjBmMGYwIi8+PHRleHQgeD0iNTAlIiB5PSI0MCUiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIyNCIgZmlsbD0iIzk5OSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+4py48L3RleHQ+PHRleHQgeD0iNTAlIiB5PSI2MCUiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+5ZyW54mH54Sh5rOV6L295YWlPC90ZXh0Pjwvc3ZnPg=='"
+                 oncontextmenu="return false" 
+                 ondragstart="return false" 
+                 onselectstart="return false">
             <div class="aircraft-info">
                 <div class="aircraft-model">${aircraft.model}</div>
                 <div class="aircraft-airline">${aircraft.airline}</div>
@@ -678,6 +1476,20 @@ function openModal(index) {
     
     const modalImage = document.getElementById('modalImage');
     modalImage.src = aircraft.image;
+    
+    modalImage.oncontextmenu = function(e) {
+        e.preventDefault();
+        return false;
+    };
+    modalImage.ondragstart = function(e) {
+        e.preventDefault();
+        return false;
+    };
+    modalImage.onselectstart = function(e) {
+        e.preventDefault();
+        return false;
+    };
+    
     modalImage.onerror = function() {
         this.src = 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjZjBmMGYwIi8+PHRleHQgeD0iNTAlIiB5PSI0MCUiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIyNCIgZmlsbD0iIzk5OSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+4py48L3RleHQ+PHRleHQgeD0iNTAlIiB5PSI2MCUiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+5ZyW54mH54Sh5rOV6L295YWlPC90ZXh0Pjwvc3ZnPg==';
         this.onerror = null;
@@ -711,7 +1523,7 @@ function openModal(index) {
             <div class="info-label">相機</div>
             <div class="info-value">${aircraft.camera}</div>
         </div>
-        <div class="info-item">
+        <div class="info-item info-item-full">
             <div class="info-label">鏡頭</div>
             <div class="info-value">${aircraft.lens}</div>
         </div>
@@ -868,19 +1680,19 @@ function addStatsDisplay() {
     statsDiv.className = 'stats-display';
     
     const updateStats = () => {
-        const total = aircraftData.length;
-        const displayed = filteredData.length;
         const airlines = new Set(aircraftData.map(a => a.airline)).size;
-        const models = new Set(aircraftData.map(a => a.model)).size;
+        const models = new Set(
+            aircraftData.map(a => {
+                const match = a.model.match(/\(([^)]+)\)/); 
+                return match ? match[1] : a.model;
+            })
+        ).size;
         
         statsDiv.innerHTML = `
-            顯示 ${displayed} / ${total} 架飛機 | 
+            © 2025 Elliot CHEN | 
             ${airlines} 家航空公司 | 
             ${models} 種機型 | 
-            © Copyright 2025 Elliot CHEN | 
-            網站內所有相片均不得在未經授權的情況下被隨意分發 | 
-            資料來源: <a href="https://rzjets.net" target="_blank">rzjets.net</a> | 
-            <a href="https://github.com/ElliotCHEN37/hangar/issues/new/choose" target="_blank">修正與反饋</a>
+            資料來自<a href="www.rzjets.net">RZJets</a>與<a href="www.flightradar24.com">Flightradar24</a>
         `;
     };
 
@@ -936,6 +1748,7 @@ function init() {
     initKeyboardEvents();
     initModalEvents();
     initSearchEvents();
+    initImageProtection();
     
     setTimeout(() => {
         renderGallery();
@@ -943,6 +1756,54 @@ function init() {
         preloadImages();
         addStatsDisplay();
     }, 1000);
+}
+
+function initImageProtection() {
+    document.addEventListener('contextmenu', function(e) {
+        e.preventDefault();
+        return false;
+    });
+    
+    document.addEventListener('dragstart', function(e) {
+        if (e.target.tagName === 'IMG') {
+            e.preventDefault();
+            return false;
+        }
+    });
+    
+    document.addEventListener('selectstart', function(e) {
+        if (e.target.tagName === 'IMG') {
+            e.preventDefault();
+            return false;
+        }
+    });
+    
+    document.addEventListener('keydown', function(e) {
+        if (e.keyCode === 123) {
+            e.preventDefault();
+            return false;
+        }
+        
+        if (e.ctrlKey && e.keyCode === 83) {
+            e.preventDefault();
+            return false;
+        }
+        
+        if (e.ctrlKey && e.shiftKey && e.keyCode === 73) {
+            e.preventDefault();
+            return false;
+        }
+        
+        if (e.ctrlKey && e.shiftKey && e.keyCode === 74) {
+            e.preventDefault();
+            return false;
+        }
+        
+        if (e.ctrlKey && e.keyCode === 85) {
+            e.preventDefault();
+            return false;
+        }
+    });
 }
 
 document.addEventListener('DOMContentLoaded', init);
