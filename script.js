@@ -1692,7 +1692,7 @@ function addStatsDisplay() {
             © 2025 Elliot CHEN | 
             ${airlines} 家航空公司 | 
             ${models} 種機型 | 
-            資料來自<a href="www.rzjets.net">RZJets</a>與<a href="www.flightradar24.com">Flightradar24</a>
+            資料來自<a href="https://www.rzjets.net">RZJets</a>與<a href="https://www.flightradar24.com">Flightradar24</a>
         `;
     };
 
